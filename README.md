@@ -9,7 +9,7 @@ My name is Autumn, and I'm an M.S. candidate in Data Science, Analytics, and Eng
 - 💬 Ask me about: food insecurity stigma in Guatemala (I spent 6 weeks interviewing people there!)
 - 🌱 Currently learning about: biostatistics, autonomous vehicle engineering
 - 📫 How to reach me: autumnlotustowne@gmail.com
-- ⚡ Fun facts: I used to do competitive Irish dance!
+- ⚡ Fun fact: I used to do competitive Irish dance!
 
 <!--
 **autumn-towne/autumn-towne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
