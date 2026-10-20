@@ -1,6 +1,6 @@
 ## Hi there 🙋‍♀️
 
-My name is Autumn, and I'm an M.S. candidate in Data Science, Analytics, and Engineering at Arizona State University. I've earned a minor in Global Health and certificate in Geographic Information Systems. My work so far has explored topics like neural network-based pneumonia detection, energy infrastructure in Maricopa County, and food insecurity stigma. I’ve led a student hackathon focused on satellite data-based solutions for sustainability, collaborated with researchers in Guatemala, and built skills in tools like Python, SQL, and R. I’m motivated by questions that sit at the intersection of data, equity, and environment, and I’m looking to grow in roles where I can contribute thoughtfully and keep learning.
+My name is Autumn, and I'm an M.S. candidate in Data Science, Analytics, and Engineering at Arizona State University. My work so far has explored topics like neural network-based pneumonia detection, energy infrastructure in Maricopa County, and food insecurity stigma. I’m motivated by questions that sit at the intersection of data, equity, and the environment.
 
 - 🔭 I’m currently working on: autonomous systems trajectory prediction
 - ✅ My strongest skills: Python, R, SQL, ArcGIS, Alteryx, Tableau, CNNs
