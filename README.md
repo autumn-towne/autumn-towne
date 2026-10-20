@@ -3,8 +3,8 @@
 My name is Autumn, and I'm an M.S. candidate in Data Science, Analytics, and Engineering at Arizona State University. My work so far has explored topics like neural network-based pneumonia detection, energy infrastructure in Maricopa County, and food insecurity stigma. I’m motivated by questions that sit at the intersection of data, equity, and the environment.
 
 - 🔭 I’m currently working on: autonomous systems trajectory prediction
-- ✅ My strongest skills: Python, R, SQL, ArcGIS, Alteryx, Tableau, CNNs
-- 🧠 Previous research areas: transportation, global health, infrastructure, image classification
+- ✅ My strongest skills: SQL, Python, R, ArcGIS, and neural networks
+- 🧠 Previous research areas: transportation infrastructure, global health, image classification
 
 - 💬 Ask me about: food insecurity stigma in Guatemala (I spent 6 weeks interviewing people there!)
 - 🌱 Currently learning about: biostatistics, autonomous vehicle engineering
