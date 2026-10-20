@@ -1,11 +1,10 @@
 ## Hi there 🙋‍♀️
 
-My name is Autumn, and I'm an M.S. candidate in Data Science, Analytics, and Engineering at Arizona State University. I’m motivated by questions that sit at the intersection of data, equity, and the environment.
+My name is Autumn, and I'm an M.S. candidate in Data Science, Analytics, and Engineering at Arizona State University.
 
-- 🔭 I’m currently working on: autonomous systems trajectory prediction
+- 🔭 I’m currently working on: autonomous vehicle trajectory prediction
 - ✅ My strongest skills: SQL, Python, R, ArcGIS, and neural networks
 - 🧠 Previous research areas: neural network-based pneumonia detection, transportation infrastructure in Maricopa County, food insecurity stigma
-
 - 💬 Ask me about: food insecurity stigma in Guatemala (I spent 6 weeks interviewing people there!)
 - 🌱 Currently learning about: epidemics modeling, C++
 - 📫 How to reach me: LinkedIn DM
