@@ -3,7 +3,7 @@
 My name is Autumn, and I'm an M.S. candidate in Data Science, Analytics, and Engineering at Arizona State University.
 
 - 🔭 I’m currently working on: autonomous vehicle trajectory prediction
-- ✅ My strongest skills: SQL, Python, R, ArcGIS, and neural networks
+- ✅ My strongest skills: SQL, Python, R, ArcGIS
 - 🧠 Previous research areas: neural network-based pneumonia detection, transportation infrastructure in Maricopa County, food insecurity stigma
 - 💬 Ask me about: SpaceHACK for Sustainability
 - 🌱 Currently learning: epidemics modeling, C++
