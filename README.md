@@ -6,7 +6,7 @@ My name is Autumn, and I'm an M.S. candidate in Data Science, Analytics, and Eng
 - ✅ My strongest skills: SQL, Python, R, ArcGIS, and neural networks
 - 🧠 Previous research areas: neural network-based pneumonia detection, transportation infrastructure in Maricopa County, food insecurity stigma
 - 💬 Ask me about: SpaceHACK for Sustainability
-- 🌱 Currently learning about: epidemics modeling, C++
+- 🌱 Currently learning: epidemics modeling, C++
 - 📫 How to reach me: LinkedIn DM
 - ⚡ Fun fact: I used to do competitive Irish dance
 
