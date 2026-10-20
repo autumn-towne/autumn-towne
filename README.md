@@ -8,7 +8,7 @@ My name is Autumn, and I'm an M.S. candidate in Data Science, Analytics, and Eng
 
 - 💬 Ask me about: food insecurity stigma in Guatemala (I spent 6 weeks interviewing people there!)
 - 🌱 Currently learning about: biostatistics, autonomous vehicle engineering
-- 📫 How to reach me: autumnlotustowne@gmail.com
+- 📫 How to reach me: LinkedIn DM
 - ⚡ Fun fact: I used to do competitive Irish dance!
 
 <!--
